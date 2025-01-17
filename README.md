@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi I'm Suvi De Silva 👋
 
-<!--
-**SuviDeSilva94/SuviDeSilva94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full stack Software Engineer working in IFS, HQ in Sweden, with a deep passion for software development and solving complex problems. I have extensive experience in backend development, mobile technologies, and cloud computing. Throughout my career, I've worked on impactful projects, driving innovation and delivering high-quality solutions.
 
-Here are some ideas to get you started:
+- 🔭 Currently working as a Lead Software Engineer leading Xamarin and .NET Core teams.
+- 🌱 **Experience**: 
+  - Led the development of a several Startups using Next.js & Node.js as well.
+  - Developed an AI-powered underwriting claims system at MITRA Innovation using Azure Functions, NLP, and OpenAI APIs.
+  - Optimized Xamarin development time by 30% with a custom framework at **Virtusa**.
+- 👯 **Looking to collaborate** on innovative projects related to **AI**, **IoT**, and **Cloud Technologies**.
+- 💬 **Ask me about**: Software Engineering, Mobile Development, AI, Cloud Platforms, DevOps, and IoT.
+- 📫 **How to reach me**: suvilasan@gmail.com
+- ⚡ **Fun fact**: I built an IoT-powered air quality predictor integrated with IOT, Machine learning and Gemini AI!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out and let's build something great together! 🚀
